@@ -6,12 +6,14 @@ title: Marcus Voss
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Research Associate, Head of Application Center Smart Energy Systems
+role: PhD Student, Head of Application Center Smart Energy Systems, 
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: TU Berlin (Distributed Artificial Intelligence Laboratory)
   url: https://dai-labor.de/
+- name: Climate Change AI
+  url: https://www.climatechange.ai/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I'm a Ph.D. student in Energy Informatics and research assistant at the DAI-Labor where I lead the Application Center "Smart Energy Systems".
@@ -43,18 +45,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=uv70nC8AAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/marcus-voss
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/marcus-vo%C3%9F-5b6944ba
+- icon: researchgate
+  icon_pack: fab
+  link: https://www.researchgate.net/profile/Marcus_Voss
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,6 +72,4 @@ email: ""
 highlight_name: false
 ---
 
-Since his Master in Information Systems at the Humboldt University of Berlin in 2014, Marcus Voss is a Ph.D. student in Energy Informatics and research assistant at the DAI-Labor. There he has coordinated and worked in several research projects investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. In his doctoral research, he analyzes low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering. Currently, he coordinates the Application Center "Smart Energy Systems" and is acting Head of Competence Center "Self-Adaptive Systems".
-
-#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Since my Master in Information Systems at the Humboldt University of Berlin in 2014, I have been a Ph.D. student in Energy Informatics and research associate at the Distributed Artificial Intelligence Laboratory (DAI-Labo) at the TU Berlin. There I have been coordinating and working on several research projects, investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. I analyze low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering in my doctoral research. Currently, I coordinate the Application Center Smart Energy Systems at the DAI-Lab. I volunteer in the content committee of Climate Change AI.
