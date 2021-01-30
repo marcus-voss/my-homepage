@@ -1,39 +1,39 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Marcus Voss
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student, Research Associate, Head of Application Center Smart Energy Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: TU Berlin (Distributed Artificial Intelligence Laboratory)
+  url: https://dai-labor.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I'm a Ph.D. student in Energy Informatics and research assistant at the DAI-Labor where I lead the Application Center "Smart Energy Systems".
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Smart Meter Data Analytics in Low-Voltage Systems
+- Demand-Side Load Forecasting using Machine Learning
+- E-Mobility and Buildings as Flexibility in the Smart Grid
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Computer Science
+    institution: TU Berlin
+    year: 2021 (planned)
+  - course: M.Sc. in Information Systems
+    institution: Humboldt University of Berlin
+    year: 2014
+  - course: B.Sc. in Information Systems
+    institution: HWR Berlin
+    year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +70,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Since his Master in Information Systems at the Humboldt University of Berlin in 2014, Marcus Voss is a Ph.D. student in Energy Informatics and research assistant at the DAI-Labor. There he has coordinated and worked in several research projects investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. In his doctoral research, he analyzes low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering. Currently, he coordinates the Application Center "Smart Energy Systems" and is acting Head of Competence Center "Self-Adaptive Systems".
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+#{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
