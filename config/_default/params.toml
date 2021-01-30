@@ -175,7 +175,7 @@ plugins_js  = []
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
 [avatar]
   # Get user avatars from Gravatar.com? (true/false)
-  gravatar = true
+  gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
   shape = "circle"
@@ -265,7 +265,7 @@ plugins_js  = []
   #   3: OpenStreetMap (Mapbox)
   engine = 3
   api_key = ""
-  zoom = 15
+  zoom = 10
 
 ############################
 ## Marketing
