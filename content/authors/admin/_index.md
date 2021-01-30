@@ -6,7 +6,7 @@ title: Marcus Voss
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Head of Application Center Smart Energy Systems, 
+role: PhD Student, Head of Application Center Smart Energy Systems
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -72,4 +72,4 @@ email: ""
 highlight_name: false
 ---
 
-Since my Master in Information Systems at the Humboldt University of Berlin in 2014, I have been a Ph.D. student in Energy Informatics and research associate at the Distributed Artificial Intelligence Laboratory (DAI-Labo) at the TU Berlin. There I have been coordinating and working on several research projects, investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. I analyze low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering in my doctoral research. Currently, I coordinate the Application Center Smart Energy Systems at the DAI-Lab. I volunteer in the content committee of Climate Change AI.
+Since my Master degree in Information Systems at the Humboldt University of Berlin in 2014, I have been a Ph.D. student in Energy Informatics and research associate at the Distributed Artificial Intelligence Laboratory (DAI-Labo) at the TU Berlin. There I have been coordinating and working on several research projects, investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. I analyze low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering in my doctoral research. Currently, I coordinate the Application Center Smart Energy Systems at the DAI-Lab. I volunteer in the content committee of Climate Change AI.
