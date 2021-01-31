@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "Permutation-Based Residential Short-term Load Forecasting in the Context of Energy Management Optimization Objectives"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
