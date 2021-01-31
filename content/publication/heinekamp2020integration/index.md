@@ -36,7 +36,7 @@ publication_short: In *SEST 2020*
 abstract: A building's structural mass does provide inherent thermal storage capabilities. Through the application of sector coupling energy resources, e.g., combined heat and power plants or power-to-heat, the building mass can provide flexibility to the electric power system. Within this work, a mathematical model of a building inertia thermal energy storage is proposed to allow integration into optimized smart grid control for real-world applications. It is shown how necessary model parameters can be obtained using multiple linear regression based on measurable building data. Thereby, the nonlinear characteristics of external conditions influencing the storage operation, such as outside temperature and solar irradiation, are transformed into weighted linear factors. The possibility of the ceiling surface temperature serving as a proxy for measuring the current state of energy is demonstrated. This allows real-world implementation using minimal additional hardware. Within a case study, the potential of using building storage in optimized smart grid control with sector coupling assets of a Virtual Power Plant is analyzed. The utilization of building storage compared to conventionally used hot water tanks is presented, and cost benefits for both Virtual Power Plant and building operator are shown.
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "A building's structural mass does provide inherent thermal storage capabilities. Within this work, a mathematical model of a building inertia thermal energy storage (BITES) is proposed to allow integration into optimized smart grid control for real-world applications. "
 
 tags: []
 
