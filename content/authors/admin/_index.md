@@ -53,6 +53,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/marcus-voss
+- icon: Twitter
+  icon_pack: fab
+  link: https://twitter.com/marcusvoss314
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/marcus-vo%C3%9F-5b6944ba
