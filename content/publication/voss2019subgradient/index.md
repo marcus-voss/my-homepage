@@ -1,17 +1,19 @@
 ---
-title: "Permutation-Based Residential Short-term Load Forecasting in the Context of Energy Management Optimization Objectives"
+title: "Subgradient Methods for Averaging Household Load Profiles under Local Permutations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- Brijnesh Jain
+- Sahin Albayrak
 
 # Author notes (optional)
 author_notes: []
 
-date: "2020-06"
-doi: "https://doi.org/10.1145/3396851.3397731"
+date: "2019-08-26T00:00:00Z"
+doi: "https://doi.org/10.1109/PTC.2019.8810783"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-31T00:00:00Z"
@@ -23,25 +25,25 @@ publishDate: "2020-01-31T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In e-Energy '20 Proceedings of the Eleventh ACM International Conference on Future Energy Systems
-publication_short: In ACM e-Energy '20
+publication: In *2019 IEEE Milan PowerTech*
+publication_short: In *PowerTech 2020*
 
-abstract: What makes a household-level short-term load forecast "good"? Individual household load profiles are intermittent, as distinct peaks correspond to specific activities in the household. Using traditional point-wise error metrics to assess household-level forecasts may lead to, for instance, double-digit mean absolute percentage errors. One reason is a double penalty incurred if a peak is forecasted correctly in amplitude, but with a small delay in time. An adjusted forecast error measure based on local permutations was proposed to assess household-level forecasts by optimally aligning the peaks bounded by a displacement limit. This work shows how the choice of this parameter leads to different "best" forecasts in terms of specific applications, namely the optimization objectives of an energy management system. For that, different parameterizations of the Local Permutation Invariant (LPI) distance are compared within k-Nearest Neighbors as a forecasting model for three different optimization objectives. A simulation study on 100 households of the CER dataset shows that the optimal parameterization can decrease the peak load on average by over 22.5% compared to the Euclidean distance. However, for increasing self-sufficiency and minimizing costs, no significant improvements can be achieved. This implies that household-level forecasts should generally be evaluated in terms of their application, as traditional metrics as a proxy may not express its "goodness" adequately.
+abstract: The sample mean is one of the most fundamental concepts in statistics with far-reaching implications for data mining and pattern recognition. Household load profiles are compared to the aggregated levels more intermittent and a specific error measure based on local permutations has been proposed to cope with this when comparing profiles. We formally describe a distance based on this error, the local permutation invariant (LPI) distance, and introduce the sample mean problem in the LPI space. An existing exact solution has exponential complexity and is only tractable for very few profiles. We propose three subgradient-based approximation algorithms and compare them empirically on 100 households of the CER dataset. We find that stochastic subgradient descent can approximate the mean best, while the majorize-minimize mean is a good compromise for applications as no hyperparameter-tuning is needed. We show how the algorithms can be used in forecasting and clustering to achieve more appropriate results than by using the arithmetic mean.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: "This paper introduces an approximation of the permutation invariant (LPI) sample mean to average smart meter load profiles, with applications in load forecasting and clustering."
 
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.researchgate.net/publication/342291882_Permutation-Based_Residential_Short-term_Load_Forecasting_in_the_Context_of_Energy_Management_Optimization_Objectives'
+url_pdf: 'https://www.researchgate.net/profile/Marcus_Voss/publication/332370098_Subgradient_Methods_for_Averaging_Household_Load_Profiles_under_Local_Permutations/links/5d304680458515c11c3975da/Subgradient-Methods-for-Averaging-Household-Load-Profiles-under-Local-Permutations.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,7 +55,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ''
+  caption: 'Simplified depiction of the Fréchet function F of the LPI sample mean.'
   focal_point: ""
   preview_only: false
 
