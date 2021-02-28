@@ -18,7 +18,7 @@ organizations:
   url: https://correlaid.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a Ph.D. student in Energy Informatics and research assistant at the DAI-Labor where I lead the Application Center Smart Energy Systems.
+bio: I'm a PhD student in Energy Informatics and research assistant at the DAI-Labor where I lead the Application Center Smart Energy Systems.
 
 # Interests to show in About widget
 interests:
@@ -77,4 +77,10 @@ email: ""
 highlight_name: false
 ---
 
-Since my Master's degree in Information Systems at the Humboldt University of Berlin in 2014, I have been a Ph.D. student in Energy Informatics and research associate at the Distributed Artificial Intelligence Laboratory (DAI-Lab) at the TU Berlin. There I have been coordinating and working on several research projects, investigating how digitization and AI can support the energy transition, e.g., by modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, building and household loads, and renewable generation. I analyze low voltage-level smart meter data using non-Euclidean distance measures with applications in load forecasting and load profile clustering in my doctoral research. Currently, I coordinate the Application Center Smart Energy Systems at the DAI-Lab. I volunteer in the content committee of Climate Change AI to provide resources to get into the interdisciplinary topic of using AI and Machine Learning for climate change mitigation and adaptation. 
+I am passionate about using machine learning, AI, and data-driven methods to support the energy transition and climate change mitigation and adaptation.
+
+At the Distributed Artificial Laboratory (DAI-Lab), I have coordinated and worked on several research projects investigating how digitization and AI can support the energy transition. Within those projects, I have been modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, smart building- and smart home loads, and renewable generation. I am currently coordinating the research group Smart Energy Systems, where I am responsible for aligning the DAI research for solutions for the energy system. I have co-supervised several Seminar, Bachelor and Master theses and project-based courses, mostly in applied machine learning for energy data, hoping to inspire more students to work in the field.
+
+In my doctoral research, I work on analyzing low voltage-level smart meter data using non-Euclidean distance measures and neural networks with applications in load forecasting and load profile clustering.
+
+I volunteer in Climate Change AI's content committee to provide resources for researchers and practitioners transitioning into AI and machine learning for climate change mitigation and adaptation.
