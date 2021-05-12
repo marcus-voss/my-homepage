@@ -41,7 +41,7 @@ summary: "A building's structural mass does provide inherent thermal storage cap
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -60,7 +60,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Building Inherent Thermal Energy Storage (BITES) concept overview.'
+  caption:
   focal_point: ""
   preview_only: false
 
