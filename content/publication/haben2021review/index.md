@@ -1,42 +1,39 @@
 ---
-title: "Generalized Additive Modeling of Building Inertia Thermal Energy Storage for Integration into Smart Grid Control"
+title: "Review of Low-Voltage Load Forecasting: Methods, Applications, and Recommendations"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Stephen Haben
+- Siddharth Arora
+- Georgios Giasemidis
 - admin
-- Jan F. Heinekamp
-- Sabine Krutzsch
-- Friedrich Sick
-- Kai Strunz
-- Sahin Albayrak
+- Danica Vukadinovic Greetham
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+author_notes: []
 
-date: "2020-05-12T00:00:00Z" 
-doi: "10.1109/ACCESS.2021.3078802"
+date: "2021-05-31T00:00:00Z"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-05-12T00:00:00Z"
+publishDate: "2021-05-31T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Access*
-publication_short: In *IEEE Access*
+publication: arXiv:2106.00006v1 
+publication_short: arXiv:2106.00006v1 
 
-abstract: The structural mass of a building provides inherent thermal storage capability. Through sector coupling, the building mass can provide additional flexibility to the electric power system, using, for instance, combined heat and power plants or power-to-heat. In this work, a mathematical model of building inertia thermal energy storage (BITES) for integration into optimized smart grid control is introduced. It is shown how necessary model parameters can be obtained using generalized additive modeling (GAM) based on measurable building data. For this purpose, it is demonstrated that the ceiling surface temperature can serve as a proxy for the current state of energy. This allows for real-world implementation using only temperature sensors as additionally required hardware. Compared with linear modeling, GAM enable improved modeling of the nonlinear characteristics and interactions of external factors influencing the storage operation. Two case studies demonstrate the potential of using building storage as part of a virtual power plant (VPP) for optimized smart grid control. In the first case study, BITES is compared with conventionally used hot water tanks, revealing economic benefits for both the VPP and building operator. The second case study investigates the potential for savings in CO$_2$ emission and grid connection capacity. It shows similar benefits when using BITES compared to using battery storage, without the need for hardware investment. Given the ubiquity of buildings and the recent advances in building control systems, BITES offers great potential as an additional source of flexibility to the low-carbon energy systems of the future.
+abstract: The increased digitalisation and monitoring of the energy system opens up numerous opportunities to decarbonise the energy system. Applications on low voltage (LV), local networks, such as community energy markets and smart storage will facilitate decarbonisation, but they will require advanced control and management. Reliable forecasting will be a necessary component of many of these systems to anticipate key features and uncertainties. Despite this urgent need, there has not yet been an extensive investigation into the current state-of-the-art of low voltage level forecasts, other than at the smart meter level. This paper aims to provide a comprehensive overview of the landscape, current approaches, core applications, challenges and recommendations. Another aim of this paper is to facilitate the continued improvement and advancement in this area. To this end, the paper also surveys some of the most relevant and promising trends. It establishes an open, community-driven list of the known LV level open datasets to encourage further research and development.
 
 # Summary. An optional shortened abstract.
-summary: "A building's structural mass does provide inherent thermal storage capabilities. Within this work, a mathematical model of a building inertia thermal energy storage (BITES) is proposed to allow integration into optimized smart grid control for real-world applications. "
+summary: "This paper presents a literature review on the topic of Low Voltage (LV) load forecasting. It gives an overview of the approaches, core applications, datasets, trends, and challenges. Suggestions how to facilitate the continued improvement and advancement are given and a set of recommendations toward best practises are provided."
 
 tags: []
 
@@ -48,11 +45,11 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9427196'
+url_pdf: 'https://arxiv.org/pdf/2106.00006v1.pdf'
 url_code: ''
-url_dataset: ''
+url_dataset: 'https://low-voltage-loadforecasting.github.io/'
 url_poster: ''
-url_project: ''
+url_project: 'https://www.windnode.de/'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -60,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Building Inherent Thermal Energy Storage (BITES) concept overview.'
+  caption: 'Simplified depiction of the Fréchet function F of the LPI sample mean.'
   focal_point: ""
   preview_only: false
 
@@ -69,7 +66,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects:
+- windnode
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
