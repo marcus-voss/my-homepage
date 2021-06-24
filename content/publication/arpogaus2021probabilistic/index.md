@@ -27,7 +27,7 @@ publishDate: "2021-06-20T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Workshop Tackling Climate Change with Machine Learning at International Conference on Machine Learning (ICML)
+publication: Workshop Tackling Climate Change with Machine Learning co-located with International Conference on Machine Learning (ICML)
 publication_short: Workshop Tackling Climate Change with Machine Learning at ICML
 
 abstract: "The transition to a fully renewable energy grid requires better forecasting of demand at the low-voltage level. However, high fluctuations and increasing electrification cause huge forecast errors with traditional point estimates. Probabilistic load forecasts take future uncertainties into account and thus enables various applications in low-carbon energy systems. We propose an approach for flexible conditional density forecasting of short-term load based on Bernstein-Polynomial Normalizing Flows where a neural network controls the parameters of the flow. In an empirical study with 363 smart meter customers, our density predictions compare favorably against Gaussian and Gaussian mixture densities and also outperform a non-parametric approach based on the pinball loss for 24h-ahead load forecasting for two different neural network architectures."
