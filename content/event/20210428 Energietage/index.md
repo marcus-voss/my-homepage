@@ -1,6 +1,6 @@
 ---
-title: "Neue Berliner Luft" - Laternenladen für Berlin und Chance der Sektorenkopplung in Quartieren
-event: Berliner Energietage, Sitzung "Die Hauptstadt wird unter Strom gesetzt – Ladeinfrastruktur für die zukünftige Elektromobilität in Berlin"
+title: Neue Berliner Luft - Laternenladen für Berlin und Chance der Sektorenkopplung in Quartieren
+event: Berliner Energietage, Sitzung Die Hauptstadt wird unter Strom gesetzt – Ladeinfrastruktur für die zukünftige Elektromobilität in Berlin
 event_url: https://www.energietage.de/
 
 location: virtual
@@ -57,3 +57,5 @@ slides: ""
 projects:
 - []
 ---
+
+{{< youtube bayf0SAoyPk >}}
