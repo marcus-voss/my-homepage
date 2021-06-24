@@ -1,24 +1,22 @@
 ---
-title: Example Talk
+title: Towards a comprehensive assessment framework for the implementation of sustainable AI systems
+event: Sustainable AI Conference
+event_url: https://www.sustainable-ai.eu/
 
-event: Wowchemy Conference
-event_url: https://example.org
-
-location: Wowchemy HQ
+location: virtual
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ""
+  city: ""
+  region: ""
+  postcode: ""
+  country: ""
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: This expanding use of AI systems raises discussions about their risks, such as non-transparent decision-making processes, discrimination, increasing energy consumption and greenhouse gas emissions or increasing consumption, e.g., through personalised advertising. This talk presents preliminary insights from the project “SustAIn – Sustainability Index for Artificial Intelligence”, which aims at developing a comprehensive framework for assessing AI systems from a sustainability perspective. We outline conceptual considerations for establishing a comprehensive set of criteria that can be deployed in order to minimise negative social, ecological and economic impacts of AI-Systems and their applications. To develop a comprehensive assessment framework, we distinguish between the different scopes of impacts related to AI and we define sustainable AI maturity levels. We outline how we can define measures for each of the above criteria that need to be implemented to enhance the sustainability of AI systems.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2021-06-15T15:15:00Z"
+date_end: "2021-06-15T15:45:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -31,17 +29,17 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Institute for Science & Ethics (IWE)**](https://twitter.com/iwe_bonn/status/1404801708342104074)'
   focal_point: Right
 
 links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/iwe_bonn/status/1404801708342104074
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "Sustainable_AI-Conference_Rohde_Voss_final.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
@@ -49,7 +47,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -57,7 +55,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- example
+- []
 ---
 
 {{% callout note %}}
