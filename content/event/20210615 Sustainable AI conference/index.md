@@ -22,7 +22,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-06-01T00:00:00Z"
 
-authors: []
+authors: [Friederike Rohde, admin]
 tags: []
 
 # Is this a featured talk? (true/false)
