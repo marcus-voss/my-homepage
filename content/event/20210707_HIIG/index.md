@@ -1,6 +1,6 @@
 ---
-title: Myth: AI will save us from climate change
-event: Why, AI?
+title: "Myth: AI will save us from climate change"
+event: "Why, AI?"
 event_url: https://www.hiig.de/en/myth-ai-will-save-us-from-climate-change/
 
 location: virtual
