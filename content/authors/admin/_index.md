@@ -6,11 +6,13 @@ title: Marcus Voss
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Head of Application Center Smart Energy Systems
+role: AI Consultant and AI Engineer, PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TU Berlin (Distributed Artificial Intelligence Laboratory)
+- name: birds on mars
+  url: https://www.birdsonmars.com/birds
+- name: TU Berlin (DAI-Lab)
   url: https://dai-labor.de/
 - name: Climate Change AI
   url: https://www.climatechange.ai/
@@ -18,7 +20,7 @@ organizations:
   url: https://correlaid.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm a PhD student in Energy Informatics and research assistant at the DAI-Labor where I lead the Application Center Smart Energy Systems.
+bio: I'm an AI consultant at birds on mars and a PhD student at TU Berlin in AI applications in the smart grid.
 
 # Interests to show in About widget
 interests:
@@ -79,7 +81,9 @@ highlight_name: false
 
 I am passionate about using machine learning, AI, and data-driven methods to support the energy transition and climate change mitigation and adaptation.
 
-At the Distributed Artificial Intelligence Laboratory (DAI-Lab), I have coordinated and worked on several research projects investigating how digitization and AI can support the energy transition. Within those projects, I have been modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, smart building- and smart home loads, and renewable generation. I am currently coordinating the research group Smart Energy Systems, where I am responsible for aligning the DAI research for solutions for the energy system. I have co-supervised several Seminar, Bachelor and Master theses and project-based courses, mostly in applied machine learning for energy data, hoping to inspire more students to work in the field.
+I am an Intelligence Architect and AI Expert at bird on mars, where I enable companies to make use of their data.
+
+At the Distributed Artificial Intelligence Laboratory (DAI-Lab), I have coordinated and worked on several research projects investigating how digitization and AI can support the energy transition. Within those projects, I have been modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, smart building- and smart home loads, and renewable generation. I coordinated the research group Smart Energy Systems, where I was responsible for aligning the DAI research for solutions for the energy system. I have co-supervised several Seminar, Bachelor and Master theses and project-based courses, mostly in applied machine learning for energy data, hoping to inspire more students to work in the field.
 
 In my doctoral research, I work on analyzing low voltage-level smart meter data using non-Euclidean distance measures and neural networks with applications in load forecasting and load profile clustering.
 
