@@ -6,7 +6,7 @@ title: Marcus Voss
 superuser: true
 
 # Role/position/tagline
-role: AI Consultant and AI Engineer, PhD Student
+role: Intelligence Architect and AI Expert, PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: https://correlaid.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an AI consultant at birds on mars and a PhD student at TU Berlin in AI applications in the smart grid.
+bio: I'm an AI consultant at Birds on Mars and a PhD student at TU Berlin in AI applications in the smart grid.
 
 # Interests to show in About widget
 interests:
