@@ -10,7 +10,7 @@ role: Intelligence Architect and AI Expert, PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: birds on mars
+- name: Birds on Mars
   url: https://www.birdsonmars.com/birds
 - name: TU Berlin (DAI-Lab)
   url: https://dai-labor.de/
@@ -24,9 +24,8 @@ bio: I'm an AI consultant at Birds on Mars and a PhD student at TU Berlin in AI 
 
 # Interests to show in About widget
 interests:
-- Smart Meter Data Analytics in Low-Voltage Systems
-- Demand-Side Load Forecasting using Machine Learning
-- E-Mobility and Buildings as Flexibility in the Smart Grid
+- Sustainable use cases of AI and Machine Learning
+- Applications of AI and ML in energy systems
 
 # Education to show in About widget
 education:

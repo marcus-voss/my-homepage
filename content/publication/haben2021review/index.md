@@ -14,8 +14,8 @@ authors:
 # Author notes (optional)
 author_notes: []
 
-date: "2021-05-31T00:00:00Z"
-doi: ""
+date: "2021-12-15T00:00:00Z"
+doi: "https://doi.org/10.1016/j.apenergy.2021.117798"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-05-31T00:00:00Z"
@@ -24,16 +24,16 @@ publishDate: "2021-05-31T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: arXiv:2106.00006v1 
-publication_short: arXiv:2106.00006v1 
+publication: Applied Energy, Volume 304, pages 117798
+publication_short: Applied Energy
 
-abstract: The increased digitalisation and monitoring of the energy system opens up numerous opportunities to decarbonise the energy system. Applications on low voltage (LV), local networks, such as community energy markets and smart storage will facilitate decarbonisation, but they will require advanced control and management. Reliable forecasting will be a necessary component of many of these systems to anticipate key features and uncertainties. Despite this urgent need, there has not yet been an extensive investigation into the current state-of-the-art of low voltage level forecasts, other than at the smart meter level. This paper aims to provide a comprehensive overview of the landscape, current approaches, core applications, challenges and recommendations. Another aim of this paper is to facilitate the continued improvement and advancement in this area. To this end, the paper also surveys some of the most relevant and promising trends. It establishes an open, community-driven list of the known LV level open datasets to encourage further research and development.
+abstract: The increased digitalisation and monitoring of the energy system opens up numerous opportunities to decarbonise the energy system. Applications on low voltage, local networks, such as community energy markets and smart storage will facilitate decarbonisation, but they will require advanced control and management. Reliable forecasting will be a necessary component of many of these systems to anticipate key features and uncertainties. Despite this urgent need, there has not yet been an extensive investigation into the current state-of-the-art of low voltage level forecasts, other than at the smart meter level. This paper aims to provide a comprehensive overview of the landscape, current approaches, core applications, challenges and recommendations. Another aim of this paper is to facilitate the continued improvement and advancement in this area. To this end, the paper also surveys some of the most relevant and promising trends. It establishes an open, community-driven list of the known low voltage level open datasets to encourage further research and development.
 
 # Summary. An optional shortened abstract.
-summary: "This paper presents a literature review on the topic of Low Voltage (LV) load forecasting. It gives an overview of the approaches, core applications, datasets, trends, and challenges. Suggestions how to facilitate the continued improvement and advancement are given and a set of recommendations toward best practises are provided."
+summary: "This paper presents a literature review on the topic of Low Voltage (LV) load forecasting. It gives an overview of the approaches, core applications, datasets, trends, and challenges. Suggestions how to facilitate the continued improvement and advancement are given and a set of recommendations toward best practices are provided."
 
 tags: []
 
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2106.00006v1.pdf'
+url_pdf: 'https://arxiv.org/pdf/2106.00006.pdf'
 url_code: ''
 url_dataset: 'https://low-voltage-loadforecasting.github.io/'
 url_poster: ''
@@ -57,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Simplified depiction of the Fréchet function F of the LPI sample mean.'
+  caption: 'Overview of scope of the review.'
   focal_point: ""
   preview_only: false
 
