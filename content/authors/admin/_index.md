@@ -80,10 +80,10 @@ highlight_name: false
 
 I am passionate about using machine learning, AI, and data-driven methods to support the energy transition and climate change mitigation and adaptation.
 
-I am an Intelligence Architect and AI Expert at bird on mars, where I enable companies to make use of their data.
+I am an Intelligence Architect and AI Expert at Birds on Mars, where I enable companies to create value with their data.
 
 At the Distributed Artificial Intelligence Laboratory (DAI-Lab), I have coordinated and worked on several research projects investigating how digitization and AI can support the energy transition. Within those projects, I have been modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, smart building- and smart home loads, and renewable generation. I coordinated the research group Smart Energy Systems, where I was responsible for aligning the DAI research for solutions for the energy system. I have co-supervised several Seminar, Bachelor and Master theses and project-based courses, mostly in applied machine learning for energy data, hoping to inspire more students to work in the field.
 
 In my doctoral research, I work on analyzing low voltage-level smart meter data using non-Euclidean distance measures and neural networks with applications in load forecasting and load profile clustering.
 
-I volunteer in Climate Change AI's content committee to provide resources for researchers and practitioners transitioning into AI and machine learning for climate change mitigation and adaptation.
+I volunteer in Climate Change AI’s content committee to provide resources for researchers and practitioners transitioning into AI and machine learning for climate change mitigation and adaptation.
