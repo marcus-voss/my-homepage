@@ -1,7 +1,7 @@
 ---
 title: "Die Künstliche Intelligenz und der Klimaschutz"
-event: "Jungen Klimakonferenz LCOY "
-event_url: https://www.lcoy.de/de/lcoy-de-okt-2021
+event: "Jungen Klimakonferenz LCOY"
+event_url: https://www.lcoy.de/de/lcoy-de-okt-2021/
 
 location: Kassel
 address:
