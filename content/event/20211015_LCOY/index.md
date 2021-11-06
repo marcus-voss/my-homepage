@@ -29,10 +29,14 @@ tags: []
 featured: true
 
 image:
-  caption: ''
+  caption: ""
   focal_point: Right
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: 
 url_code: ""
 url_pdf: ""
 url_slides: "slides/LCOY_Voss.pdf"
