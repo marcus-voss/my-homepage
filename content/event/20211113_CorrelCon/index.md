@@ -39,7 +39,7 @@ links:
   url: 
 url_code: ""
 url_pdf: ""
-url_slides: "slides/CorrelCon_Voss"
+url_slides: "slides/CorrelCon_Voss.pdf"
 url_video: ""
 
 # Markdown Slides (optional).
