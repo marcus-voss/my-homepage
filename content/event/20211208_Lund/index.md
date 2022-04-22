@@ -15,7 +15,7 @@ summary: "Artificial Intelligence (AI) and Machine Learning (ML) provide powerfu
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-18T10:30:00Z"
+date: "2021-12-8T10:30:00Z"
 #date_end: "2020-12-28T13:30:00Z"
 all_day: true
 

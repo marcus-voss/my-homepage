@@ -1,9 +1,10 @@
 ---
-title: "Tackling Climate Change with Machine Learning"
-event: Workshop AI for climate and environmental research
+title: "Quantified Trees - How Artificial, Human and Botanic Intelligences save our City Trees"
+event: AI Innovations 2022, Co-hosted by HTW Berlin (onsite), University of Exeter (onsite)
+and STEMM Global (online)
 event_url: "https://www.ai.lu.se/evenemang/workshop-ai-climate-and-environmental-research"
 
-location: Remote
+location: HTW-Berlin
 address:
   street: ""
   city: ""
@@ -11,11 +12,11 @@ address:
   postcode: ""
   country: ""
 
-summary: "Artificial Intelligence (AI) and Machine Learning (ML) provide powerful tools to tackle climate change in various applications: They can support climate change mitigation, for instance, by helping reduce greenhouse gas emissions within various applications. They can help to adapt to a changing climate and even advance climate science itself. However, AI and ML are not silver bullets and can always only be one part of the solution. This talk provides an overview of the strengths and weaknesses of ML, some example applications and recurring themes."
+summary: "Recent years have shown that trees, especially in big cities, have to face strenuous conditions due to missing rainfalls, rising temperatures and long-lasting droughts. But also environmental urban factors such as sealed surfaces, diverse soil types, dog excrements and reflecting house facades impact the tree’s wellbeing. In our talk, we will introduce you to the publicly funded project ‘QTrees’ and to our methods that we use to connect human and botanical intelligences with AI to implement solutions to support the effective watering and care of city trees. Furthermore, we show how the usage of machine learning can bridge the gap between local IoT sensors and physics-informed soil water balance models."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-18T10:30:00Z"
+date: "2022-05-05T10:30:00Z"
 #date_end: "2020-12-28T13:30:00Z"
 all_day: true
 

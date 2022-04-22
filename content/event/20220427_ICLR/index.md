@@ -1,7 +1,7 @@
 ---
-title: "Tackling Climate Change with Machine Learning"
-event: Workshop AI for climate and environmental research
-event_url: "https://www.ai.lu.se/evenemang/workshop-ai-climate-and-environmental-research"
+title: "Tackling the Energy Transition and Climate Change with AI "
+event: AI4Renewable at the Tenth International Conference on Learning Representations (ICLR 2022)
+event_url: "https://www.ai4renewables.org/home"
 
 location: Remote
 address:
@@ -15,7 +15,7 @@ summary: "Artificial Intelligence (AI) and Machine Learning (ML) provide powerfu
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-12-18T10:30:00Z"
+date: "2022-04-27T10:30:00Z"
 #date_end: "2020-12-28T13:30:00Z"
 all_day: true
 
