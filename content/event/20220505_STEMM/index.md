@@ -1,7 +1,6 @@
 ---
 title: "Quantified Trees - How Artificial, Human and Botanic Intelligences save our City Trees"
-event: AI Innovations 2022, Co-hosted by HTW Berlin (onsite), University of Exeter (onsite)
-and STEMM Global (online)
+event: AI Innovations 2022, Co-hosted by HTW Berlin (onsite), University of Exeter (onsite) and STEMM Global (online)
 event_url: "https://www.ai.lu.se/evenemang/workshop-ai-climate-and-environmental-research"
 
 location: HTW-Berlin
