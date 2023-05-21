@@ -36,7 +36,7 @@ summary: "This paper introduces an approximation of the permutation invariant (L
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

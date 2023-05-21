@@ -6,25 +6,22 @@ title: Marcus Voss
 superuser: true
 
 # Role/position/tagline
-role: Intelligence Architect and AI Expert, PhD Student
-
+role: Intelligence Architect and AI Expert
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Birds on Mars
   url: https://www.birdsonmars.com/birds
-- name: TU Berlin (DAI-Lab)
-  url: https://dai-labor.de/
+- name: TU Berlin 
+  url: https://tu-berlin.de/.de/
 - name: Climate Change AI
   url: https://www.climatechange.ai/
-- name: CorrelAid
-  url: https://correlaid.org/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I'm an AI consultant at Birds on Mars and a PhD student at TU Berlin in AI applications in the smart grid.
+bio: AI and Sustainability at Birds on Mars and Climate Change AI, Lecturer for AI and Data Science.
 
 # Interests to show in About widget
 interests:
-- Sustainable use cases of AI and Machine Learning
+- AI and machine learning within our planetary boundaries
 - Applications of AI and ML in energy systems
 
 # Education to show in About widget
@@ -32,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: TU Berlin
-    year: 2021 (planned)
+    year: 2023 (planned)
   - course: M.Sc. in Information Systems
     institution: Humboldt University of Berlin
     year: 2014
@@ -78,12 +75,13 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about using machine learning, AI, and data-driven methods to support the energy transition and climate change mitigation and adaptation.
+I am passionate about exploring the applications of machine learning, AI, and data-driven methods for sustainability, energy transition, and climate change mitigation and adaptation.
 
-I am an Intelligence Architect and AI Expert at Birds on Mars, where I enable companies to create value with their data.
+I am a __AI expert at [Birds on Mars](https://www.birdsonmars.com/)__, where I am responsible for AI applications for environmental sustainability. I am on the __Board of Directors of [Climate Change AI](https://www.climatechange.ai/)__, an international nonprofit catalyzing impactful work at the intersection of climate change and machine learning. 
 
-At the Distributed Artificial Intelligence Laboratory (DAI-Lab), I have coordinated and worked on several research projects investigating how digitization and AI can support the energy transition. Within those projects, I have been modeling, forecasting, and optimizing different demand-side processes such as electric vehicles, smart building- and smart home loads, and renewable generation. I coordinated the research group Smart Energy Systems, where I was responsible for aligning the DAI research for solutions for the energy system. I have co-supervised several Seminar, Bachelor and Master theses and project-based courses, mostly in applied machine learning for energy data, hoping to inspire more students to work in the field.
+I have been an __external lecturer on AI and data science__ at TU Berlin, Leuphana University Lüneburg, and CODE University. Previously, I was a __research associate at the TU Berlin__, where I led the Smart Energy Systems research group of the DAI Lab, working on AI applications in the smart grid and sustainable development of AI systems. I like to __give talks__ about AI and sustainability.
 
-In my doctoral research, I work on analyzing low voltage-level smart meter data using non-Euclidean distance measures and neural networks with applications in load forecasting and load profile clustering. Are you also analyzing load data? Then check out or contribute to our [list of load datasets](https://low-voltage-loadforecasting.github.io/)!
 
-I volunteer in Climate Change AI’s content committee to provide resources for researchers and practitioners transitioning into AI and machine learning for climate change mitigation and adaptation, like on the [CCAI Wiki](https://wiki.climatechange.ai/wiki/Welcome_to_the_Climate_Change_AI_Wiki).
+If you are working on machine learning and smart meter data, check out our recent [__open access book__](https://link.springer.com/book/10.1007/978-3-031-27852-5) on load forecasting, this [Python tutorial](https://github.com/low-voltage-loadforecasting/book-case-study), and our [list of load datasets](https://low-voltage-loadforecasting.github.io/). 
+
+
