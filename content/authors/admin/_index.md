@@ -75,11 +75,11 @@ email: ""
 highlight_name: false
 ---
 
-I am passionate about exploring the applications of machine learning, AI, and data-driven methods for sustainability, energy transition, and climate change mitigation and adaptation.
+I am passionate about exploring the applications of machine learning and artificial intelligence for a sustainable live within our planetary boundaries.
 
-I am a __AI expert at [Birds on Mars](https://www.birdsonmars.com/)__, where I am responsible for AI applications for environmental sustainability. I am on the __Board of Directors of [Climate Change AI](https://www.climatechange.ai/)__, an international nonprofit catalyzing impactful work at the intersection of climate change and machine learning. 
+I am an __AI expert at [Birds on Mars](https://www.birdsonmars.com/)__, where I am responsible for AI applications for environmental sustainability. I am member of the __Board of Directors at [Climate Change AI](https://www.climatechange.ai/)__, an international nonprofit catalyzing impactful work at the intersection of climate change and machine learning. 
 
-I have been an __external lecturer on AI and data science__ at TU Berlin, Leuphana University Lüneburg, and CODE University. Previously, I was a __research associate at the TU Berlin__, where I led the Smart Energy Systems research group of the DAI Lab, working on AI applications in the smart grid and sustainable development of AI systems. I like to __give talks__ about AI and sustainability.
+I have been an __external lecturer on AI and data science__ among others at TU Berlin, Leuphana University Lüneburg, the Climate Change AI summer school and CODE University. Previously, I was a __research associate at the TU Berlin__, where I led the Smart Energy Systems research group of the DAI Lab, working on AI applications in the smart grid and sustainable development of AI systems. I like to __give talks__ about AI and sustainability in different contexts, e.g. at [Bits and Bäume](https://www.youtube.com/watch?v=jtGre095uD4&list=PLrK7d-dTy324xR597M-iDU_yohFnmU-2U), a key note at the DESSAI Inria-DFKI European Summer School on AI [2022](http://idessai.eu/welcome-2022/) or the Bitkom Big-Data.AI summit [2022](https://www.youtube.com/watch?v=jWM1tr7tcgU).
 
 
 If you are working on machine learning and smart meter data, check out our recent [__open access book__](https://link.springer.com/book/10.1007/978-3-031-27852-5) on load forecasting, this [Python tutorial](https://github.com/low-voltage-loadforecasting/book-case-study), and our [list of load datasets](https://low-voltage-loadforecasting.github.io/). 
